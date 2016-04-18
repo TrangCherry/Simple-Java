@@ -1,4 +1,5 @@
 package BaiTap1;
+int tuoi;
 
 public class vdswitchcasedefault2 {
 
